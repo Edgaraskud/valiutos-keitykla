@@ -1,3 +1,4 @@
+// valiutos keityklos programa
 #include <iostream>
 #include <iomanip>
 
